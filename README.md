@@ -1,4 +1,4 @@
-### Hi Everyone, This is Aaditya Bachchu Chatterjee!! Welcome to my Github account. 👋
+### Hi Everyone, This is Aaditya Bachchu Chatterjee!! Welcome to my GitHub account. 👋
 
 #I'm Software Engineer, precisely Java developer and motivator.
 
