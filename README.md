@@ -53,7 +53,7 @@ I'm a **Software Engineer** with a strong focus on **Java Backend Development**,
 
 ### 👨‍💻 Languages & Frameworks
 ![Java](https://icongr.am/devicon/java-original-wordmark.svg?size=60)
-![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg)
+![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg?size=60)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50)
 ![Django](https://icongr.am/devicon/django-original.svg?size=50)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=40)
@@ -68,26 +68,26 @@ I'm a **Software Engineer** with a strong focus on **Java Backend Development**,
 ![Postgres](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=50)
 ![MongoDB](https://icongr.am/devicon/mongodb-plain-wordmark.svg?size=50)
 ![Redis](https://icongr.am/devicon/redis-original-wordmark.svg?size=50)
-![Kafka](https://icongr.am/simple/apachekafka.svg?size=50&color=ea0606)
+![Kafka](https://icongr.am/simple/apachekafka.svg?size=50&color=ea0606?size=40)
 ![ElasticSearch](https://icongr.am/simple/elasticsearch.svg?size=40)
 
 ---
 
 ### ☁️ DevOps, Cloud & Tools
 ![AWS](https://icongr.am/devicon/amazonwebservices-original.svg?size=40)
-![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg)
+![GCP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg?size=40)
 ![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=40)
-![Kubernetes](https://icongr.am/material/kubernetes.svg?size=50&color=0b33f9)
-![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg)
-![Terraform](https://icongr.am/material/terraform.svg?size=40&color=330bf9)
-![Ansible](https://icongr.am/material/ansible.svg?size=40&color=f90b3b)
+![Kubernetes](https://icongr.am/material/kubernetes.svg?size=50&color=0b33f9?size=40)
+![Jenkins](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg?size=40)
+![Terraform](https://icongr.am/material/terraform.svg?size=40&color=330bf9?size=40)
+![Ansible](https://icongr.am/material/ansible.svg?size=40&color=f90b3b?size=40)
 
 ---
 
 ### 📊 Monitoring & Testing
-![Prometheus](https://icongr.am/simple/prometheus.svg?size=40&color=ea0606)
-![Grafana](https://icongr.am/simple/grafana.svg?size=40&color=ea7406)
-![JMeter](https://cdn2.hubspot.net/hubfs/208250/apachejmeter.jpg)
+![Prometheus](https://icongr.am/simple/prometheus.svg?size=40&color=ea0606?size=40)
+![Grafana](https://icongr.am/simple/grafana.svg?size=40&color=ea7406?size=40)
+![JMeter](https://cdn2.hubspot.net/hubfs/208250/apachejmeter.jpg?size=40)
 
 ---
 
