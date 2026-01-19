@@ -13,16 +13,22 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://abchatterjee.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-yellow?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UCeaoUtrBLP94P20-LRO00WQ/">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://abc-tech-blog.vercel.app/">
+  <img src="https://img.shields.io/badge/tech_blog-green?style=for-the-badge&logo=tech_blog&logoColor=green"/>
 </a>
 <a href="https://www.instagram.com/geopolitiksimplified/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://medium.com/@aadityabchatterjee/">
-  <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-purple?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+<a href="https://dearabc.vercel.app/">
+  <img src="https://img.shields.io/badge/general_blog-orange?style=for-the-badge&logo=general_blog&logoColor=white"/>
 </a>
 
 </div>
