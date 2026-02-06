@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/geopolitiksimplified/">
   <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://medium.com/@aadityabchatterjee/">
+<a href="https://medium.com/@abchatterjee/">
   <img src="https://img.shields.io/badge/Medium-purple?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://dearabc.vercel.app/">
